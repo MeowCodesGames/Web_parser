@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/new_krisha_parser.iml" filepath="$PROJECT_DIR$/.idea/new_krisha_parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/web_parser.iml" filepath="$PROJECT_DIR$/.idea/web_parser.iml" />
     </modules>
   </component>
 </project>

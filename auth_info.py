@@ -1,2 +1,4 @@
+# Enter your login
 LOGIN = ""
-PASSWORD = "41lohafe"
+# Enter your password
+PASSWORD = ""
